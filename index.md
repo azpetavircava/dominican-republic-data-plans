@@ -58,3 +58,10 @@ layout: default
 
 　　希望这份指南能帮你扫清障碍。毕竟，好的网络连接不该成为旅行的焦虑源，而应是完美假期的无声基石。祝你在这片热情的土地上，玩得尽兴，连线无忧！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Dominican Republic SIM 卡购买与激活指南](https://faciylike.github.io/dominican-republic-sim-guides)
